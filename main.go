@@ -34,7 +34,7 @@ func main() {
 }
 
 func loginHandler(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte("269018"))
+	w.Write([]byte("dorinasty1201"))
 }
 
 func nHandler(w http.ResponseWriter, r *http.Request) {
